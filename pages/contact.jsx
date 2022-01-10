@@ -21,7 +21,7 @@ function Contact() {
               You can find me on twitter @jae_katharina
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: @gmail.com</li>
+              <li className="contact-item">Email: </li>
               <li className="contact-item">Phone: +43</li>
             </ul>
           </div>

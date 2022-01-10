@@ -18,22 +18,22 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              I'm about to build up a portfolio in the course of this coding
-              bootcamp.
+              I will be building up a portfolio in the course of this coding
+              bootcamp. Watch this space
             </p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
                 <img src="/chitchat.png" className="portfolio-image" />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name"></h4>
+                <div className="portfolio-category"></div>
               </div>
               <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" />
+                <img className="portfolio-image" />
 
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name"></h4>
+                <div className="portfolio-category"></div>
               </div>
             </div>
           </div>
