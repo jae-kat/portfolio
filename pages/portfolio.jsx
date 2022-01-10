@@ -24,7 +24,7 @@ function Portfolio() {
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" />
+                <img className="portfolio-image" />
 
                 <h4 className="portfolio-name"></h4>
                 <div className="portfolio-category"></div>
